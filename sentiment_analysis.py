@@ -19,7 +19,7 @@ class TwitterClient(object):
         consumer_key = 'XXXXX'
         consumer_secret = 'XXXXX'
         access_token = 'XXXXX'
-        access_token_secret = 'XXXXX
+        access_token_secret = 'XXXXX'
         
         # attempt authentication
         try:
